@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ovlic
+- 👀 I know intermediate HTML, JS, and CSS
+- 🌱 I’m currently learning more JS for HTML
